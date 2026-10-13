@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ShivamThakur02/DSA/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShivamThakur02/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ShivamThakur02/DSA/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ShivamThakur02/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/ShivamThakur02/DSA/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -35,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShivamThakur02/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Array
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ShivamThakur02/DSA/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ShivamThakur02/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ShivamThakur02/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
