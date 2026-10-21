@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShivamThakur02/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/ShivamThakur02/DSA/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivamThakur02/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ShivamThakur02/DSA/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShivamThakur02/DSA/tree/master/0345-reverse-vowels-of-a-string) |
