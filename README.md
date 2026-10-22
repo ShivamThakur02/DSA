@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShivamThakur02/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/ShivamThakur02/DSA/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/ShivamThakur02/DSA/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivamThakur02/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ShivamThakur02/DSA/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShivamThakur02/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ShivamThakur02/DSA/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/ShivamThakur02/DSA/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ShivamThakur02/DSA/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/ShivamThakur02/DSA/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
