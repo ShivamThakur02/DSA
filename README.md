@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShivamThakur02/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShivamThakur02/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/ShivamThakur02/DSA/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ShivamThakur02/DSA/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivamThakur02/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ShivamThakur02/DSA/tree/master/0165-compare-version-numbers) |
+| [0242-valid-anagram](https://github.com/ShivamThakur02/DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShivamThakur02/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sliding Window
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShivamThakur02/DSA/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/ShivamThakur02/DSA/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
