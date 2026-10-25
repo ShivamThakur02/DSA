@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ShivamThakur02/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ShivamThakur02/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ShivamThakur02/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShivamThakur02/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ShivamThakur02/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ShivamThakur02/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ShivamThakur02/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ShivamThakur02/DSA/tree/master/0075-sort-colors) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ShivamThakur02/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ShivamThakur02/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ShivamThakur02/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/ShivamThakur02/DSA/tree/master/0242-valid-anagram) |
