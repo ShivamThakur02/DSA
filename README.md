@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ShivamThakur02/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/ShivamThakur02/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShivamThakur02/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShivamThakur02/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/ShivamThakur02/DSA/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/ShivamThakur02/DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShivamThakur02/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShivamThakur02/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShivamThakur02/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShivamThakur02/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0424-longest-repeating-character-replacement](https://github.com/ShivamThakur02/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Array
 |  |
 | ------- |
