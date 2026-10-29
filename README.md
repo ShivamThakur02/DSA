@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShivamThakur02/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShivamThakur02/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ShivamThakur02/DSA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ShivamThakur02/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ShivamThakur02/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShivamThakur02/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/ShivamThakur02/DSA/tree/master/0242-valid-anagram) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/ShivamThakur02/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/ShivamThakur02/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/ShivamThakur02/DSA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ShivamThakur02/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ShivamThakur02/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivamThakur02/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ShivamThakur02/DSA/tree/master/0165-compare-version-numbers) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShivamThakur02/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShivamThakur02/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/ShivamThakur02/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShivamThakur02/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Array
 |  |
