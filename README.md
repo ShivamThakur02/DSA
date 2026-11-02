@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ShivamThakur02/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/ShivamThakur02/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ShivamThakur02/DSA/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/ShivamThakur02/DSA/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ShivamThakur02/DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/ShivamThakur02/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ShivamThakur02/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/ShivamThakur02/DSA/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShivamThakur02/DSA/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/ShivamThakur02/DSA/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
