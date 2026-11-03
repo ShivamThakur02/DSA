@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShivamThakur02/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShivamThakur02/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ShivamThakur02/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ShivamThakur02/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ShivamThakur02/DSA/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/ShivamThakur02/DSA/tree/master/0739-daily-temperatures) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShivamThakur02/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ShivamThakur02/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShivamThakur02/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ShivamThakur02/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivamThakur02/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ShivamThakur02/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivamThakur02/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShivamThakur02/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ShivamThakur02/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/ShivamThakur02/DSA/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ShivamThakur02/DSA/tree/master/0155-min-stack) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ShivamThakur02/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
