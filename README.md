@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ShivamThakur02/DSA/tree/master/0015-3sum) |
+| [0039-combination-sum](https://github.com/ShivamThakur02/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ShivamThakur02/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ShivamThakur02/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ShivamThakur02/DSA/tree/master/0075-sort-colors) |
@@ -190,4 +191,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShivamThakur02/DSA/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/ShivamThakur02/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
