@@ -7,5 +7,4 @@ class Solution:
                 dct[key].append(i)
             else:
                 dct[key]=[i]
-
-        return list(dct.values())        
+        return list(dct.values())
