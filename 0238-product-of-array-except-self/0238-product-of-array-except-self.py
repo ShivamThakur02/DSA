@@ -6,9 +6,7 @@ class Solution:
             res[i]=prefix
             prefix=prefix*nums[i]
         suffix=1
-        for j in range(len(nums)-1,-1,-1):
-            res[j]=res[j]*suffix
-            suffix=suffix*nums[j]
-
+        for i in range(len(nums)-1,-1,-1):
+            res[i]=suffix*res[i]
+            suffix=suffix*nums[i]
         return res
-        
